@@ -21,8 +21,11 @@ I work at the intersection of **cybersecurity, AI systems, and GRC/compliance au
 | Project | Stack | Focus |
 | :--- | :--- | :--- |
 | **[Edge-AI Remote Health Monitoring](https://github.com/al9eri/Spring-2026-COSC497-SDP-Group-07)** | `Python` `C++` `TFLite` `ESP32-S3` | Privacy-preserving on-device physiological anomaly detection (1D-Conv Autoencoder & SSL) running in real time on an ESP32-S3 + MAX30102 with a live web dashboard. |
-| **RIPv2 Dynamic Routing & Network Automation** | `Python` `Cisco IOS` `SSH` `Pytest` | Automated router configuration, routing-table snapshotting, and link-failure convergence measurement across a 3-router triangle topology. |
-| **Systems & Cryptography Labs** | `C` `Java` `Rust` | POSIX shared memory, mutex/synchronization primitives, client-server IPC, classical cryptography implementations, and [Rustlings](https://github.com/al9eri/rustlings). |
+| **[RIPv2 Network Automation & Convergence](https://github.com/al9eri/rip-network-automation)** | `Python` `Cisco IOS` `SSH` `Pytest` | Automated router configuration, routing-table snapshotting, and link-failure convergence measurement across a 3-router triangle topology. |
+| **[Systems Programming & Algorithms](https://github.com/al9eri/systems-and-algorithms)** | `C` `POSIX Threads` `Sockets` `Python` | POSIX shared memory, semaphore/mutex concurrency (Sleeping Barber, barriers), TCP client-server IPC, and Divide & Conquer algorithms. |
+| **[Clinical Diabetes Risk ML Pipeline](https://github.com/al9eri/diabetes-risk-ml)** | `Python` `Scikit-Learn` `Pandas` `Jupyter` | End-to-end supervised classification pipeline evaluating clinical and demographic risk factors with sensitivity/ROC-AUC analysis. |
+| **[Rustlings Systems Exercises](https://github.com/al9eri/rustlings)** | `Rust` `Cargo` | Ownership, borrowing, lifetimes, concurrency, and type-safe systems programming exercises in Rust. |
+| **[Emirati Tower Defense](https://github.com/al9eri/emirati-tower-defense)** | `JavaScript` `HTML5 Canvas` `CSS3` | Zero-dependency HTML5 Canvas strategy game with custom wave mechanics and tower upgrade systems. |
 
 ---
 
@@ -34,7 +37,7 @@ I work at the intersection of **cybersecurity, AI systems, and GRC/compliance au
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI, Security & Infrastructure**  
 ![TensorFlow Lite](https://img.shields.io/badge/TFLite_/_Edge_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
