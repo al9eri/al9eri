@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 225" width="432" height="225" role="img" aria-label="AEGIS — Indirect Prompt-Injection and Evidence Firewall">
+  <defs>
+    <linearGradient id="eGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#070B14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+    @keyframes sweep {
+      0%, 100% { transform: translateX(0px); opacity: 0.35; }
+      50% { transform: translateX(368px); opacity: 0.95; }
+    }
+    .laser { animation: sweep 3.6s ease-in-out infinite; }
+  </style>
+
+  <rect width="432" height="225" rx="10" fill="#070B14"/>
+  <rect width="432" height="225" rx="10" fill="url(#eGlow)"/>
+  <rect x="0.75" y="0.75" width="430.5" height="223.5" rx="9.5" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="18" y="0" width="96" height="2.5" rx="1.2" fill="#10B981"/>
+
+  <!-- Header -->
+  <text x="20" y="28" class="mono" font-size="10" fill="#10B981" font-weight="700" letter-spacing="1.2">SYS.02 // AI SEC &amp; GRC</text>
+  <rect x="330" y="15" width="82" height="19" rx="4" fill="#06281E" stroke="#10B981" stroke-width="0.75"/>
+  <text x="371" y="28" text-anchor="middle" class="mono" font-size="9.5" fill="#10B981" font-weight="700">CI PASSING</text>
+
+  <text x="20" y="53" class="sans" font-size="17" fill="#F8FAFC" font-weight="700">aegis-prompt-guard</text>
+  <text x="412" y="53" text-anchor="end" class="mono" font-size="13" fill="#64748B">↗</text>
+
+  <text x="20" y="74" class="sans" font-size="11.5" fill="#94A3B8">Deterministic firewall blocking Trojan Source bidi, Plane-14 tag</text>
+  <text x="20" y="90" class="sans" font-size="11.5" fill="#94A3B8">smuggling, and compliance-verdict coercion in untrusted RAG docs.</text>
+
+  <!-- Schematic Diagram Box -->
+  <g transform="translate(20, 104)">
+    <rect width="392" height="70" rx="6" fill="#05080F" stroke="#152A24" stroke-width="1"/>
+    <line class="laser" x1="12" y1="6" x2="12" y2="64" stroke="#10B981" stroke-width="1.5"/>
+    <line x1="60" y1="35" x2="340" y2="35" stroke="#14352B" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+    <rect x="12" y="17" width="86" height="36" rx="4" fill="#0B1324" stroke="#1E293B" stroke-width="1"/>
+    <text x="55" y="33" text-anchor="middle" class="mono" font-size="9" fill="#E2E8F0" font-weight="700">RAW EVIDENCE</text>
+    <text x="55" y="45" text-anchor="middle" class="mono" font-size="8" fill="#EF4444">Untrusted Bytes</text>
+
+    <rect x="112" y="17" width="88" height="36" rx="4" fill="#0B1324" stroke="#10B981" stroke-width="1"/>
+    <text x="156" y="33" text-anchor="middle" class="mono" font-size="9" fill="#10B981" font-weight="700">STEGO + BIDI</text>
+    <text x="156" y="45" text-anchor="middle" class="mono" font-size="8" fill="#94A3B8">Plane-14 / B64</text>
+
+    <rect x="214" y="17" width="86" height="36" rx="4" fill="#0B1324" stroke="#1E293B" stroke-width="1"/>
+    <text x="257" y="33" text-anchor="middle" class="mono" font-size="9" fill="#E2E8F0" font-weight="700">VERDICT GATE</text>
+    <text x="257" y="45" text-anchor="middle" class="mono" font-size="8" fill="#F59E0B">9 Static Rules</text>
+
+    <rect x="314" y="17" width="66" height="36" rx="4" fill="#0B1324" stroke="#10B981" stroke-width="1"/>
+    <text x="347" y="33" text-anchor="middle" class="mono" font-size="9" fill="#10B981" font-weight="700">ATTESTED</text>
+    <text x="347" y="45" text-anchor="middle" class="mono" font-size="8" fill="#64748B">SHA-256</text>
+  </g>
+
+  <!-- Footer Tech Spec Chips -->
+  <g transform="translate(20, 188)">
+    <rect x="0" y="0" width="76" height="21" rx="4" fill="#0D1526"/>
+    <text x="38" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">Zero-Dep</text>
+
+    <rect x="84" y="0" width="92" height="21" rx="4" fill="#0D1526"/>
+    <text x="130" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">Prompt Sec</text>
+
+    <rect x="184" y="0" width="82" height="21" rx="4" fill="#0D1526"/>
+    <text x="225" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">GRC Audit</text>
+
+    <rect x="274" y="0" width="84" height="21" rx="4" fill="#0D1526"/>
+    <text x="316" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">Python CLI</text>
+  </g>
+</svg>

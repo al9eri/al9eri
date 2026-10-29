@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 225" width="432" height="225" role="img" aria-label="Systems Programming and Algorithms">
+  <defs>
+    <linearGradient id="pGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#070B14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+    @keyframes semPulse {
+      0%, 100% { stroke-opacity: 0.4; }
+      50% { stroke-opacity: 1; }
+    }
+    .ring { animation: semPulse 2.4s ease-in-out infinite; }
+  </style>
+
+  <rect width="432" height="225" rx="10" fill="#070B14"/>
+  <rect width="432" height="225" rx="10" fill="url(#pGlow)"/>
+  <rect x="0.75" y="0.75" width="430.5" height="223.5" rx="9.5" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="18" y="0" width="96" height="2.5" rx="1.2" fill="#A855F7"/>
+
+  <!-- Header -->
+  <text x="20" y="28" class="mono" font-size="10" fill="#A855F7" font-weight="700" letter-spacing="1.2">SYS.04 // POSIX KERNELS</text>
+  <rect x="330" y="15" width="82" height="19" rx="4" fill="#231038" stroke="#A855F7" stroke-width="0.75"/>
+  <text x="371" y="28" text-anchor="middle" class="mono" font-size="9.5" fill="#A855F7" font-weight="700">CI PASSING</text>
+
+  <text x="20" y="53" class="sans" font-size="17" fill="#F8FAFC" font-weight="700">systems-and-algorithms</text>
+  <text x="412" y="53" text-anchor="end" class="mono" font-size="13" fill="#64748B">↗</text>
+
+  <text x="20" y="74" class="sans" font-size="11.5" fill="#94A3B8">POSIX semaphore/mutex state machines, System V shared-memory</text>
+  <text x="20" y="90" class="sans" font-size="11.5" fill="#94A3B8">IPC across fork(), raw AF_INET TCP RPC &amp; O(n log n) D&amp;C kernels.</text>
+
+  <!-- Schematic Diagram Box -->
+  <g transform="translate(20, 104)">
+    <rect width="392" height="70" rx="6" fill="#05080F" stroke="#241638" stroke-width="1"/>
+    <line x1="94" y1="35" x2="310" y2="35" stroke="#3B1F5E" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+    <rect x="12" y="17" width="86" height="36" rx="4" fill="#0B1324" stroke="#1E293B" stroke-width="1"/>
+    <text x="55" y="33" text-anchor="middle" class="mono" font-size="9" fill="#E2E8F0" font-weight="700">PTHREADS</text>
+    <text x="55" y="45" text-anchor="middle" class="mono" font-size="8" fill="#A855F7">sem_t / mutex</text>
+
+    <rect class="ring" x="114" y="17" width="88" height="36" rx="4" fill="#0B1324" stroke="#A855F7" stroke-width="1.2"/>
+    <text x="158" y="33" text-anchor="middle" class="mono" font-size="9" fill="#A855F7" font-weight="700">SYSV SHM IPC</text>
+    <text x="158" y="45" text-anchor="middle" class="mono" font-size="8" fill="#94A3B8">shmget / fork()</text>
+
+    <rect x="218" y="17" width="82" height="36" rx="4" fill="#0B1324" stroke="#1E293B" stroke-width="1"/>
+    <text x="259" y="33" text-anchor="middle" class="mono" font-size="9" fill="#E2E8F0" font-weight="700">TCP SOCKETS</text>
+    <text x="259" y="45" text-anchor="middle" class="mono" font-size="8" fill="#00F0FF">SOCK_STREAM</text>
+
+    <rect x="314" y="17" width="66" height="36" rx="4" fill="#0B1324" stroke="#1E293B" stroke-width="1"/>
+    <text x="347" y="33" text-anchor="middle" class="mono" font-size="9" fill="#10B981" font-weight="700">D&amp;C / LSD</text>
+    <text x="347" y="45" text-anchor="middle" class="mono" font-size="8" fill="#64748B">O(n log n)</text>
+  </g>
+
+  <!-- Footer Tech Spec Chips -->
+  <g transform="translate(20, 188)">
+    <rect x="0" y="0" width="56" height="21" rx="4" fill="#0D1526"/>
+    <text x="28" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">C11</text>
+
+    <rect x="64" y="0" width="82" height="21" rx="4" fill="#0D1526"/>
+    <text x="105" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">POSIX IPC</text>
+
+    <rect x="154" y="0" width="76" height="21" rx="4" fill="#0D1526"/>
+    <text x="192" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">Sockets</text>
+
+    <rect x="238" y="0" width="90" height="21" rx="4" fill="#0D1526"/>
+    <text x="283" y="14" text-anchor="middle" class="mono" font-size="9.5" fill="#CBD5E1">GCC -Werror</text>
+  </g>
+</svg>
