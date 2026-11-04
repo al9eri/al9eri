@@ -5,6 +5,27 @@
 
   <br/><br/>
 
+  <!-- VERIFIED CREDENTIALS & QUICK LINKS -->
+  <p align="center">
+    <a href="https://linkedin.com/in/zayed-al-nuaimi">
+      <img src="https://img.shields.io/badge/LinkedIn-Zayed%20Alnuaimi-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F17" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://barmous.ae">
+      <img src="https://img.shields.io/badge/Venture-Barmous%20Compliance-00F0FF?style=flat-square&labelColor=0B0F17" alt="Barmous Compliance" />
+    </a>
+    &nbsp;
+    <a href="mailto:al9eeri@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-al9eeri%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0F17" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/al9eri?tab=repositories">
+      <img src="https://img.shields.io/badge/Flagship%20Builds-v1.0.0%20Verified-10B981?style=flat-square&labelColor=0B0F17" alt="Build Status" />
+    </a>
+  </p>
+
+  <br/>
+
   <!-- SECTION 01: DEPLOYED SYSTEMS -->
   <img src="./assets/section-deployments.svg" width="100%" alt="01 // Deployed Systems & Open-Source Kernels" />
 
