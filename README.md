@@ -7,7 +7,7 @@
 
   <!-- VERIFIED CREDENTIALS & QUICK LINKS -->
   <p align="center">
-    <a href="https://linkedin.com/in/zayed-al-nuaimi">
+    <a href="https://www.linkedin.com/in/zayedalnuaimi">
       <img src="https://img.shields.io/badge/LinkedIn-Zayed%20Alnuaimi-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F17" alt="LinkedIn" />
     </a>
     &nbsp;
