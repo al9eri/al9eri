@@ -1,4 +1,6 @@
-### Zayed Alnuaimi
+<p align="left">
+  <img src="./assets/header.svg" alt="Zayed Alnuaimi — Abu Dhabi, UAE" width="100%" />
+</p>
 
 Founder & CEO at [Barmous](https://barmous.ae) · Co-Founder & CEO at [Nemu](https://nemu.ae/).  
 Previously Group Risk Management (Bedaya) at **First Abu Dhabi Bank (FAB)** · **ISO/IEC 27001:2022 Lead Auditor**.  
