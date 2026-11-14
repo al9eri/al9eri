@@ -1,7 +1,6 @@
-<p align="left">
-  <img src="./assets/banner.png" alt="Zayed Alnuaimi — Abu Dhabi, UAE" width="100%" />
-</p>
+### Zayed Alnuaimi
 
+Founder & CEO at [Barmous](https://barmous.ae) · Co-Founder & CEO at [Nemu](https://nemu.ae/).  
 Previously Group Risk Management (Bedaya) at **First Abu Dhabi Bank (FAB)** · **ISO/IEC 27001:2022 Lead Auditor** · B.Sc. CS Senior at Khalifa University.  
 **1st Place** Sandooq Al Watan · **1st Place** Tawazun Security Hackathon · **1st Place** NYUAD Game Jam.
 
@@ -9,10 +8,10 @@ Previously Group Risk Management (Bedaya) at **First Abu Dhabi Bank (FAB)** · *
 
 | System | Core | Verified Scope |
 | :--- | :--- | :--- |
-| **[murqab](https://github.com/al9eri/murqab)** | Rust · PyO3 | Bidirectional MCP firewall (`-32001` pin / `-32002` taint / `-32003` DLP) & `.docx`/`.pdf` stealth-text unpacker (`~55 µs/doc`). |
-| **[pulse-edge-ai](https://github.com/al9eri/pulse-edge-ai)** | C · TinyML | On-device PPG causal `sosfilt` (`1.7e-9` scipy parity), Int8 1D-CNN (`0.706` PR-AUC, `1.5 ms/win`), FreeRTOS on ESP32-S3. |
+| **[murqab](https://github.com/al9eri/murqab)** | Rust · PyO3 | Bidirectional MCP firewall (-32001 pin / -32002 taint / -32003 DLP) & .docx/.pdf stealth-text unpacker (~55 µs/doc). |
+| **[pulse-edge-ai](https://github.com/al9eri/pulse-edge-ai)** | C · TinyML | On-device PPG causal `sosfilt` (1.7e-9 scipy parity), Int8 1D-CNN (0.706 PR-AUC, 1.5 ms/win), FreeRTOS on ESP32-S3. |
 | **[systems-and-algorithms](https://github.com/al9eri/systems-and-algorithms)** | C11 · POSIX | Concurrency (`pthreads`, semaphores, mutexes), System V shared-memory IPC (`shmget`/`shmat`), raw TCP sockets. |
-| **[rip-network-automation](https://github.com/al9eri/rip-network-automation)** | Python · Cisco IOS | Deterministic RIPv2 fault-injection and routing convergence measurement harness (`~25.5 s` failover) over SSH. |
+| **[rip-network-automation](https://github.com/al9eri/rip-network-automation)** | Python · Cisco IOS | Deterministic RIPv2 fault-injection and routing convergence measurement harness (~25.5 s failover) over SSH. |
 
 #### Ventures & Ecosystem
 
