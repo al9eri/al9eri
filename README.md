@@ -6,10 +6,10 @@ Previously Group Risk Management (Bedaya) at **First Abu Dhabi Bank (FAB)** · *
 
 #### Engineering
 
+- **[murqab](https://github.com/al9eri/murqab)** — Bidirectional Rust + `PyO3` MCP `stdio` firewall (`murqab mcp-proxy`) with SHA-256 `tools/list` rug-pull pinning, session taint guard (`-32002`), egress secret DLP (`-32003`), and `.docx`/`.pdf` stealth-text unpacking (`<w:vanish/>`, PDF `3 Tr`, `~55 µs`/doc).
 - **[pulse-edge-ai](https://github.com/al9eri/pulse-edge-ai)** — On-device PPG signal conditioning (`C` causal `sosfilt`, `1.7e-9` scipy parity), `Int8` 1D-CNN anomaly detection (`0.706` PR-AUC, `1.5 ms/win`), and FreeRTOS telemetry on `ESP32-S3` + `MAX30102`.
-- **[murqab](https://github.com/al9eri/murqab)** — Rust + `PyO3` MCP `stdio` firewall proxy (`murqab mcp-proxy`), `.docx`/`.pdf` stealth-text unpacker (`<w:vanish/>`, PDF `3 Tr`), and Unicode smuggling sanitizer (`~57 µs` per 10 KB doc).
-- **[rip-network-automation](https://github.com/al9eri/rip-network-automation)** — Deterministic Cisco IOS RIPv2 fault-injection and routing convergence measurement harness (`~25.5 s` failover recovery) over SSH/Netmiko.
 - **[systems-and-algorithms](https://github.com/al9eri/systems-and-algorithms)** — POSIX concurrency (`pthreads`, counting semaphores, mutexes), System V shared-memory IPC (`shmget`/`shmat`), and raw `AF_INET` TCP sockets in `C11`.
+- **[rip-network-automation](https://github.com/al9eri/rip-network-automation)** — Deterministic Cisco IOS RIPv2 fault-injection and routing convergence measurement harness (`~25.5 s` failover recovery) over SSH/Netmiko.
 
 #### Ventures & Ecosystem
 
