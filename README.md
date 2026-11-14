@@ -7,7 +7,7 @@ Previously Group Risk Management (Bedaya) at **First Abu Dhabi Bank (FAB)** · *
 #### Engineering
 
 - **[pulse-edge-ai](https://github.com/al9eri/pulse-edge-ai)** — On-device PPG signal conditioning (`C` causal `sosfilt`, `1.7e-9` scipy parity), `Int8` 1D-CNN anomaly detection (`0.706` PR-AUC, `1.5 ms/win`), and FreeRTOS telemetry on `ESP32-S3` + `MAX30102`.
-- **[aegis-prompt-guard](https://github.com/al9eri/aegis-prompt-guard)** — Rust + `PyO3` MCP `stdio` firewall proxy (`aegis mcp-proxy`), `.docx`/`.pdf` stealth-text unpacker (`<w:vanish/>`, PDF `3 Tr`), and Unicode smuggling sanitizer (`~57 µs` per 10 KB doc).
+- **[murqab](https://github.com/al9eri/murqab)** — Rust + `PyO3` MCP `stdio` firewall proxy (`murqab mcp-proxy`), `.docx`/`.pdf` stealth-text unpacker (`<w:vanish/>`, PDF `3 Tr`), and Unicode smuggling sanitizer (`~57 µs` per 10 KB doc).
 - **[rip-network-automation](https://github.com/al9eri/rip-network-automation)** — Deterministic Cisco IOS RIPv2 fault-injection and routing convergence measurement harness (`~25.5 s` failover recovery) over SSH/Netmiko.
 - **[systems-and-algorithms](https://github.com/al9eri/systems-and-algorithms)** — POSIX concurrency (`pthreads`, counting semaphores, mutexes), System V shared-memory IPC (`shmget`/`shmat`), and raw `AF_INET` TCP sockets in `C11`.
 
