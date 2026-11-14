@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/header.svg" alt="Zayed Alnuaimi — Abu Dhabi, UAE" width="100%" />
+  <img src="./assets/banner.png" alt="Zayed Alnuaimi — Abu Dhabi, UAE" width="100%" />
 </p>
 
 Founder & CEO at [Barmous](https://barmous.ae) · Co-Founder & CEO at [Nemu](https://nemu.ae/).  
