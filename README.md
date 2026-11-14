@@ -19,4 +19,8 @@ Previously Group Risk Management (Bedaya) at **First Abu Dhabi Bank (FAB)** · *
 - **[Nemu Technologies](https://nemu.ae/)** — Automated B2B revenue and customer acquisition infrastructure.
 - **[KU Cybersecurity Club (KUCSC)](https://kucsc.net)** — Founder & Strategic Advisor (formerly President). Scaled the AI & Cyber Security Summer School to **750+** participants across all 7 Emirates alongside the **UAE Cyber Security Council** and **Google.org**.
 
+<p align="left">
+  <img src="./assets/proof_strip.png" alt="Field Dispatch — G[P]RC Summit, GISEC CyberE71, KUCSC Summer School & National CTF, Sandooq Al Watan" width="100%" />
+</p>
+
 [LinkedIn](https://www.linkedin.com/in/zayedalnuaimi) · [barmous.ae](https://barmous.ae) · [nemu.ae](https://nemu.ae/) · [kucsc.net](https://kucsc.net)
