@@ -5,7 +5,7 @@ I build AI security tools, compliance software, and low-level systems in Abu Dha
 **What I'm working on:**
 - **[Barmous](https://barmous.ae):** AI-assisted compliance software for UAE & global security frameworks (CyberE71 & AWS backed).
 - **[Nemu](https://nemu.ae/):** B2B growth and outbound systems.
-- **[KUCSC](https://kucsc.net):** Advisor (past President) at KU's Cybersecurity Club. Scaled our AI & Cyber Summer School to 750+ students across the UAE with the Cyber Security Council and Google.org.
+- **[KUCSC](https://kucsc.net):** Advisor (past President) at KU's Cybersecurity Club. Scaled the club from 0 to 850+ students across the UAE with the Cyber Security Council and Google.org.
 
 **Code worth checking out:**
 - **[murqab](https://github.com/al9eri/murqab)** (Rust, Python): MCP security proxy and `.docx`/`.pdf` scanner that catches prompt injections, tool rug-pulls, and secret leaks in ~55 µs.
