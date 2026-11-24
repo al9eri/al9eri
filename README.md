@@ -1,4 +1,4 @@
-### Salaam, I'm Zayed.
+### Hi, I'm Zayed.
 
 I build AI security tools, compliance software, and low-level systems in Abu Dhabi while finishing up my CS degree at Khalifa University. Previously worked in Group Risk Management at First Abu Dhabi Bank (FAB) and hold an ISO 27001 Lead Auditor cert.
 
